@@ -31,7 +31,7 @@ function Contact() {
           required
           className="p-2 border"
         ></textarea>
-        <button type="submit" className="bg-blue-600 text-white p-2 mt-2">
+        <button type="submit" className="bg-orange-600 text-white p-2 mt-2">
           Send Message
         </button>
       </form>
